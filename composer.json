@@ -1,0 +1,13 @@
+{
+    "name": "a.chinour/spreadsheet",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.5"
+    },
+    "authors": [
+        {
+            "name": "Adrien Chinour",
+            "email": "adrien.chinour@protonmail.com"
+        }
+    ]
+}
